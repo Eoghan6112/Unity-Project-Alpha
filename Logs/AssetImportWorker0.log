@@ -1966,3 +1966,4 @@ Received Import Request.
 Start importing Assets/Scripts/MoveForward.cs using Guid(7a982ba96f8d3624d82be1907574955d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee8a93c3e1437553bfe879cafa15f10') in 0.004193 seconds 
   Import took 0.008363 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
