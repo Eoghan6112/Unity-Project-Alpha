@@ -1,5 +1,5 @@
 # Unity-Project
-Unity project 2021
+Unity project 2021  by Eoghan Murtagh & Asha Kumar.
 
 
 Steps 2&3 done
