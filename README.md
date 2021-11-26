@@ -1,5 +1,5 @@
 # Unity-Project-Alpha
-Unity project Alpha 2021  by Eoghan Murtagh & Asha Kumar.
+Unity project Alpha 2021  by Eoghan Murtagh.
 
 
 Player movement done (PlayerController.cs) -E
