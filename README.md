@@ -1,6 +1,8 @@
 # Unity-Project-Alpha
 Unity project Alpha 2021  by Eoghan Murtagh.
 
+**LINK TO GAME** -> https://eoghan6112.github.io/Unity-Project-Alpha/
+
 
 Player movement done (PlayerController.cs) -E
 Projectile done (MoveForward.cs) -E
